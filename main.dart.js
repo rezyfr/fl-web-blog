@@ -54144,7 +54144,7 @@ g=K.b7(b).V.z
 g.toString
 f=t.p
 k=T.a5Q(H.a([new L.rn(d),M.e3(d,T.a5Q(H.a([new T.h6(C.pJ,j,d),i,h,M.e3(d,L.iu("I'm a Jakarta-based software engineer who specializes in building exceptional mobile applications offering 2-years of experience on Android Development. \n\nCurrently, I'm building an impactful platform to support micro-entrepreneurs in Indonesia. I also expanding my area of knowledge to Back-End Development and Cloud Computing.",g.eG($.M0()),C.bc),d,d,d,d,C.pK,s)],f),C.cx,C.jl),d,d,d,new V.b_(l,k,l,k),d,d)],f),C.cx,C.dS)
-return new M.ua(K.al_(T.uK(C.cj,H.a([M.e3(d,new E.DM(!0,k,d),d,d,r.b,d,d,m),T.a76(0,M.e3(d,T.a5Q(H.a([M.e3(d,R.nw(!1,!0,G.Yx("icon/icon_twitter.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),M.e3(d,R.nw(!1,!0,G.Yx("icon/icon_instagram.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),M.e3(d,R.nw(!1,!0,G.Yx("icon/icon_linkedin.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),R.nw(!1,!0,G.Yx("icon/icon_github.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d)],f),C.eO,C.dS),d,d,d,C.pQ,d,d),d,d,0,d,d,d)],f),C.bv),n),new Z.A0(o,d),p,q)},
+return new M.ua(K.al_(T.uK(C.cj,H.a([M.e3(d,new E.DM(!0,k,d),d,d,r.b,d,d,m),T.a76(0,M.e3(d,T.a5Q(H.a([M.e3(d,R.nw(!1,!0,G.Yx("icon_twitter.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),M.e3(d,R.nw(!1,!0,G.Yx("icon_instagram.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),M.e3(d,R.nw(!1,!0,G.Yx("icon_linkedin.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d,d,C.eT,d,d),R.nw(!1,!0,G.Yx("icon_github.svg"),d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d)],f),C.eO,C.dS),d,d,d,C.pQ,d,d),d,d,0,d,d,d)],f),C.bv),n),new Z.A0(o,d),p,q)},
 I3:function(){if(this.c.ab(t.w).f.a.a>=1008)return 200
 else{var s=this.c
 s.toString
